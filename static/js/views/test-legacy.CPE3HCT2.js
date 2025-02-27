@@ -1,1 +1,0 @@
-System.register(["../pinia-legacy/pinia.W3hoXFxN.js","../@vue-legacy/@vue.Bp6z6EPG.js"],(function(e,t){"use strict";var n,s,a,u;return{setters:[e=>{n=e.d},e=>{s=e.a4,a=e.c,u=e.o}],execute:function(){const t=n("demo",{state:()=>({name:"demodemo"})});e("default",{__name:"test",setup(e){let{name:n}=s(t());return(e,t)=>(u(),a("div",null,"DEMO12"))}})}}}));

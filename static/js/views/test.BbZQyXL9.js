@@ -1,1 +1,0 @@
-import{d as e}from"../pinia/pinia.2LKE9rRb.js";import{a4 as a,c as t,o as s}from"../@vue/@vue.BMX3rD5T.js";const m=e("demo",{state:()=>({name:"demodemo"})}),o={__name:"test",setup(e){let{name:o}=a(m());return(e,a)=>(s(),t("div",null,"DEMO12"))}};export{o as default};
