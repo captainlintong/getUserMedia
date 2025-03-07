@@ -1,1 +1,1 @@
-window.config={ccUrl:"https://cclocation02.263cv.net",meetUrl:"https://appserver02.263cv.net/"};
+window.config={ccUrl:"https://cclocation.263cv.net",meetUrl:"https://appserver.263cv.net/"};
